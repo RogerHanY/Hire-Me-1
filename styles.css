@@ -1,0 +1,17 @@
+img{
+    width:300px;
+}
+body {
+ background-image:url("http://sjbz.fd.zol-img.com.cn/t_s320x510c/g5/M00/00/01/ChMkJlfJUb6IR4NxAAA1to-DYuAAAU9fgPcWCcAADXO083.jpg");
+ background-color: #cccccc;
+ text-align:center;
+}
+p{
+    font-size:20px;
+}
+h1{
+    color:blue;
+}
+li{
+    color:lightgreen;
+}
